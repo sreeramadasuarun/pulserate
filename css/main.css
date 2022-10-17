@@ -393,6 +393,7 @@ div.z1 {
   /* position: absolute;
     left: 150px;
     top: 912px; */
+  cursor: pointer;
   width: 229px;
   height: 325px;
   z-index: 5;
